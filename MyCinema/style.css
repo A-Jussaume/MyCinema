@@ -1,0 +1,196 @@
+@font-face {
+    font-family: "Oswald";
+    src: url("misc/fonts/Oswald-Regular.ttf");
+}
+body
+{
+    margin: 0px;
+    font-family: "Oswald";
+    background-color: rgba(72, 84, 96,1.0);
+}
+
+#header
+{
+    height: 150px;
+    width: 100%;
+    background-color: rgba(255, 211, 42,1.0);
+    border-radius: 20px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    margin: auto;
+    margin-top: -3.5%;
+}
+
+#titre
+{
+    font-size: 100px;
+    text-align: center;
+}
+
+/* .logo
+{
+    width: 768px;
+    height: 114px;
+} */
+
+.titre-form
+{
+    font-size: 40px;
+}
+
+.fieldset
+{
+    display: flex;
+    width: 86.25%;
+    margin: auto;
+    background-color: rgba(72, 84, 96,1.0);
+    border: none;
+}
+
+.film
+{
+    background-color: rgba(255, 211, 42,1.0);
+    border-radius: 20px;
+    border: none;
+    margin: 20px;
+
+}
+
+#field-film
+{
+    font-family: "Oswald";
+    font-size: medium;
+    border-radius: 7.5px;
+    border: none;
+    outline: none;
+}
+
+.select-genre 
+{
+    width: 75px;
+    font-family: "Oswald";
+    font-size: medium;
+    border-radius: 7.5px;
+    border: none;
+    outline: none;
+}
+
+.select-distributeur
+{
+    width: 125px;
+    font-family: "Oswald";
+    font-size: medium;
+    border-radius: 7.5px;
+    border: none;
+    outline: none;
+}
+
+#date
+{
+    font-family: "Oswald";
+    font-size: medium;
+    width: 133.5px;
+    height: 23px;
+    border-radius: 7.5px;
+    border: none;
+    outline: none;
+}
+
+.submit
+{
+    font-family: "Oswald";
+    font-size: medium;
+    height: 30px;
+    border-radius: 7.5px;
+    border: none;
+    outline: none;
+}
+
+.membre
+{
+    background-color: rgba(255, 211, 42,1.0);
+    border-radius: 20px;
+    border: none;
+    margin: 20px;
+}
+
+.field-membre
+{
+    font-family: "Oswald";
+    font-size: medium;
+    border-radius: 7.5px;
+    border: none;
+    outline: none;
+}
+
+#historique
+{
+    width: 200px;
+    font-family: "Oswald";
+    font-size: small;
+    border-radius: 7.5px;
+    border: none;
+    outline: none;
+}
+
+#button-historique
+{
+    font-family: "Oswald";
+    font-size: small;
+    border-radius: 7.5px;
+    border: none;
+    outline: none;
+}
+
+#film-avis
+{
+    font-family: "Oswald";
+    font-size: small;
+    border-radius: 7.5px;
+    border: none;
+    outline: none;
+}
+
+#avis
+{
+    width: 400px;
+    height: 200px;
+    resize: none;
+    font-family: "Oswald";
+    font-size: small;
+    border-radius: 7.5px;
+    border: none;
+    outline: none;
+}
+
+#button-avis
+{
+    font-family: "Oswald";
+    font-size: small;
+    border-radius: 7.5px;
+    border: none;
+    outline: none;
+}
+
+.abonnement
+{
+    background-color: rgba(255, 211, 42,1.0);
+    border-radius: 20px;
+    border: none;
+    margin: 20px;
+}
+
+#membre_abo
+{
+
+    font-family: "Oswald";
+    font-size: medium;
+    border-radius: 7.5px;
+    border: none;
+    outline: none;
+}
+
+.refresh{
+    border-radius: 5px;
+    border: none;
+}
